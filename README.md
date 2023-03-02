@@ -1,6 +1,6 @@
-# Deforstation-Project
-SQL project where analized global deforstation from 1990 to 2016
+# Deforestation-Project
+SQL project analyzing global deforestation from 1990 to 2016.
 
-this project contain 2 files:
-* the report that summarize the findings.
-* a pdf file with all the queries for the project.
+This project contains 2 files:
+* Report summarizing the findings.
+* PDF file with all the queries for the project.
